@@ -56,6 +56,9 @@ main {
   padding: 0.5rem 1rem;
   border-radius: 3px;
   cursor: pointer;
+  display: flex;
+  justify-content: center;
+  margin-top: 10px;
 }
 
 #add-note-button {
