@@ -67,3 +67,16 @@ main {
   cursor: pointer;
   margin-top: 1rem;
 }
+
+.title{
+  font: bold 15px Arial;
+}
+
+.textarea{
+  margin-top: 10px;
+  border-radius: 5px;
+}
+
+.content{
+  text-align: center;
+}
